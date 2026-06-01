@@ -46,7 +46,7 @@ const mainLine = quote.language === "zh" ? quote.translation : quote.text;
 const translationLine = quote.language === "zh" ? quote.text : quote.translation;
 
 const block = `<!-- DAILY_QUOTE_START -->
-<table width="100%">
+<table align="center" width="100%">
   <tr>
     <td width="100%" align="center">
       <sub><strong>Today's Thought · ${date}</strong></sub><br><br>
