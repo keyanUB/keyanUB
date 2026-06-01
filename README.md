@@ -17,8 +17,35 @@
   <a href="https://keyanub.github.io/">
     <img src="https://img.shields.io/badge/Website-keyanub.github.io-14a44d?style=for-the-badge&logo=githubpages&logoColor=white" alt="Personal website" />
   </a>
-  <a href="https://github.com/keyanUB">
-    <img src="https://img.shields.io/badge/GitHub-keyanUB-24292f?style=for-the-badge&logo=github" alt="GitHub profile" />
+  <a href="https://www.linkedin.com/in/keyan96/">
+    <img src="https://img.shields.io/badge/LinkedIn-keyan96-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+### Positive Quote Card
+
+<p>
+  A daily positive quote card with source, bilingual translation, and optional previous/next navigation.
+</p>
+
+<!-- DAILY_QUOTE_START -->
+<table width="100%">
+  <tr>
+    <td width="100%">
+      <strong>Today's quote · 2026-06-01</strong><br><br>
+      <em>The journey of a thousand miles begins with one step.</em><br>
+      <sub>Laozi, Tao Te Ching</sub><br><br>
+      千里之行，始于足下。
+    </td>
+  </tr>
+</table>
+<!-- DAILY_QUOTE_END -->
+
+<p>
+  <a href="https://keyanub.github.io/positive-quote-card.html">
+    <img src="https://img.shields.io/badge/Open-Positive%20Quote%20Card-14a44d?style=for-the-badge" alt="Open positive quote card" />
   </a>
 </p>
 
@@ -61,52 +88,3 @@
   </tr>
 </table>
 
----
-
-### Positive Quote Card
-
-<p>
-  A daily positive quote card with source, bilingual translation, and optional previous/next navigation.
-</p>
-
-<!-- DAILY_QUOTE_START -->
-<table width="100%">
-  <tr>
-    <td width="100%">
-      <strong>Today's quote · 2026-06-01</strong><br><br>
-      <em>The journey of a thousand miles begins with one step.</em><br>
-      <sub>Laozi, Tao Te Ching</sub><br><br>
-      千里之行，始于足下。
-    </td>
-  </tr>
-</table>
-<!-- DAILY_QUOTE_END -->
-
-<p>
-  <a href="https://keyanub.github.io/positive-quote-card.html">
-    <img src="https://img.shields.io/badge/Open-Positive%20Quote%20Card-14a44d?style=for-the-badge" alt="Open positive quote card" />
-  </a>
-</p>
-
----
-
-### Featured Projects
-
-| Project | What It Does | Stack |
-| --- | --- | --- |
-| `AI Safety & Security` | Research on safer generative AI systems and real-world platform risks. | Python, ML |
-| `Harmful Content Understanding` | Multimodal analysis for online abuse, hate, and harmful memes. | Python, PyTorch |
-| `Personal Website` | Academic portfolio, publications, projects, teaching, and CV. | Jekyll, GitHub Pages |
-
----
-
-### Find Me
-
-<p>
-  <a href="mailto:keyanguo@buffalo.edu">
-    <img src="https://img.shields.io/badge/Email-keyanguo%40buffalo.edu-0a66c2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/keyan96/">
-    <img src="https://img.shields.io/badge/LinkedIn-keyan96-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
