@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Website-keyanub.github.io-14a44d?style=for-the-badge&logo=githubpages&logoColor=white" alt="Personal website" />
   </a>
   <a href="https://www.linkedin.com/in/keyan96/">
-    <img src="https://img.shields.io/badge/LinkedIn-keyan96-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/keyan96-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn" alt="LinkedIn" />
   </a>
 </p>
 
