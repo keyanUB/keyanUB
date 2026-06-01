@@ -45,12 +45,20 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=keyanUB&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
+      <h3>Research Snapshot</h3>
+      <ul>
+        <li>AI security and generative AI safety</li>
+        <li>Multimodal robustness and content moderation</li>
+        <li>Academic portfolio, publications, and projects on my website</li>
+      </ul>
     </td>
     <td width="50%">
-      <h3>Top Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyanUB&layout=compact&hide_border=true" alt="Top languages" />
+      <h3>Code Snapshot</h3>
+      <ul>
+        <li>Main languages: Python, JavaScript, HTML/CSS</li>
+        <li>ML stack: PyTorch and scikit-learn</li>
+        <li>Tools: GitHub, Git, VS Code</li>
+      </ul>
     </td>
   </tr>
   <tr>
