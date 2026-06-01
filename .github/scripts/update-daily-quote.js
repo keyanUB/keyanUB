@@ -48,11 +48,12 @@ const translationLine = quote.language === "zh" ? quote.text : quote.translation
 const block = `<!-- DAILY_QUOTE_START -->
 <table width="100%">
   <tr>
-    <td width="100%">
-      <strong>Today's quote · ${date}</strong><br><br>
-      <em>${escapeHtml(mainLine)}</em><br>
-      <sub>${escapeHtml(quote.source)}</sub><br><br>
-      ${escapeHtml(translationLine)}
+    <td width="100%" align="center">
+      <sub><strong>Today's Thought · ${date}</strong></sub><br><br>
+      <strong><em>${escapeHtml(mainLine)}</em></strong><br>
+      <div align="right"><sub>${escapeHtml(quote.source)}</sub></div>
+      <br>
+      <code>${escapeHtml(translationLine)}</code>
     </td>
   </tr>
 </table>
