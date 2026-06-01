@@ -24,14 +24,16 @@
 
 ---
 
+<div align="center">
+
 ### Positive Quote Card
 
-<p>
-  A daily positive quote card with source, bilingual translation, and optional previous/next navigation.
-</p>
+A daily positive quote card with source, bilingual translation, and optional previous/next navigation.
+
+</div>
 
 <!-- DAILY_QUOTE_START -->
-<table width="100%">
+<table align="center" width="100%">
   <tr>
     <td width="100%" align="center">
       <sub><strong>Today's Thought · 2026-06-01</strong></sub><br><br>
@@ -44,7 +46,7 @@
 </table>
 <!-- DAILY_QUOTE_END -->
 
-<p>
+<p align="center">
   <a href="https://keyanub.github.io/positive-quote-card.html">
     <img src="https://img.shields.io/badge/Open-Positive%20Quote%20Card-14a44d?style=for-the-badge" alt="Open positive quote card" />
   </a>
