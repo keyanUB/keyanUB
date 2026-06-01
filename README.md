@@ -26,9 +26,9 @@
 
 <div align="center">
 
-### Positive Quote Card
+### Daily Reflection
 
-A daily positive quote card with source, bilingual translation, and optional previous/next navigation.
+A daily thought with its source and bilingual translation.
 
 </div>
 
