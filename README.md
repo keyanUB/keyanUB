@@ -73,7 +73,7 @@
 <table>
   <tr>
     <td>
-      <strong>Today&apos;s quote · 2026-06-01</strong><br><br>
+      <strong>Today's quote · 2026-06-01</strong><br><br>
       <em>The journey of a thousand miles begins with one step.</em><br>
       <sub>Laozi, Tao Te Ching</sub><br><br>
       千里之行，始于足下。
