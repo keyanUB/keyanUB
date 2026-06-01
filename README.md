@@ -74,7 +74,7 @@
 ### Positive Quote Card
 
 <p>
-  A small interactive card that shows a positive quote, its source, and a bilingual translation.
+  A daily positive quote card with source, bilingual translation, and optional previous/next navigation.
 </p>
 
 <p>
