@@ -69,6 +69,19 @@
   A daily positive quote card with source, bilingual translation, and optional previous/next navigation.
 </p>
 
+<!-- DAILY_QUOTE_START -->
+<table>
+  <tr>
+    <td>
+      <strong>Today&apos;s quote · 2026-06-01</strong><br><br>
+      <em>The journey of a thousand miles begins with one step.</em><br>
+      <sub>Laozi, Tao Te Ching</sub><br><br>
+      千里之行，始于足下。
+    </td>
+  </tr>
+</table>
+<!-- DAILY_QUOTE_END -->
+
 <p>
   <a href="https://keyanub.github.io/positive-quote-card.html">
     <img src="https://img.shields.io/badge/Open-Positive%20Quote%20Card-14a44d?style=for-the-badge" alt="Open positive quote card" />
