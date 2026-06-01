@@ -6,7 +6,6 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - README.md
       - .github/workflows/update-daily-quote.yml
       - .github/scripts/update-daily-quote.js
 
