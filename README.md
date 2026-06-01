@@ -1,11 +1,13 @@
-<h1 align="center">Hi, I'm Keyan</h1>
-
 <p align="center">
-  Ph.D. candidate, AI security researcher, and builder of safer intelligent systems.
+  <strong>Hi, I'm Keyan</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&center=true&vCenter=true&width=620&lines=AI+Security+Researcher;Ph.D.+Candidate+at+University+at+Buffalo;Building+safer+generative+AI+systems" alt="Typing SVG" />
+  Ph.D. candidate at University at Buffalo · AI security · Generative AI safety
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&center=true&vCenter=true&width=680&color=0F766E&lines=AI+Security+Researcher;Building+safer+generative+AI+systems;Multimodal+safety+%7C+Robustness+%7C+Content+moderation" alt="Typing SVG" />
 </p>
 
 <p align="center">
