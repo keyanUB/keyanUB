@@ -79,13 +79,13 @@
       </p>
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td colspan="2">
       <h3>Activity Graph</h3>
       <p align="center">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=keyanUB&theme=minimal&hide_border=true" alt="GitHub activity graph" />
       </p>
     </td>
-  </tr>
+  </tr> -->
 </table>
 
