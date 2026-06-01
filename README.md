@@ -30,7 +30,6 @@
   A daily positive quote card with source, bilingual translation, and optional previous/next navigation.
 </p>
 
-<p align="center">
 <!-- DAILY_QUOTE_START -->
 <table width="100%">
   <tr>
@@ -43,7 +42,6 @@
   </tr>
 </table>
 <!-- DAILY_QUOTE_END -->
-</p>
 
 <p>
   <a href="https://keyanub.github.io/positive-quote-card.html">
