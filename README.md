@@ -95,16 +95,13 @@
 
 ---
 
-### Connect
+### Find Me
 
 <p>
-  <a href="https://keyanub.github.io/">
-    <img src="https://img.shields.io/badge/Website-Visit-14a44d?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website" />
-  </a>
   <a href="mailto:keyanguo@buffalo.edu">
-    <img src="https://img.shields.io/badge/Email-Contact-0a66c2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-keyanguo%40buffalo.edu-0a66c2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/keyan96/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-keyan96-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
