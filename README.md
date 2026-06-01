@@ -70,9 +70,9 @@
 </p>
 
 <!-- DAILY_QUOTE_START -->
-<table width="100%">
+<table>
   <tr>
-    <td width="100%">
+    <td>
       <strong>Today's quote · 2026-06-01</strong><br><br>
       <em>The journey of a thousand miles begins with one step.</em><br>
       <sub>Laozi, Tao Te Ching</sub><br><br>
