@@ -33,11 +33,12 @@
 <!-- DAILY_QUOTE_START -->
 <table width="100%">
   <tr>
-    <td width="100%">
-      <strong>Today's quote · 2026-06-01</strong><br><br>
-      <em>The journey of a thousand miles begins with one step.</em><br>
-      <sub>Laozi, Tao Te Ching</sub><br><br>
-      千里之行，始于足下。
+    <td width="100%" align="center">
+      <sub><strong>Today's Thought · 2026-06-01</strong></sub><br><br>
+      <strong><em>The journey of a thousand miles begins with one step.</em></strong><br>
+      <div align="right"><sub>Laozi, Tao Te Ching</sub></div>
+      <br>
+      <code>千里之行，始于足下。</code>
     </td>
   </tr>
 </table>
