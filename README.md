@@ -73,24 +73,5 @@ A daily thought with its source and bilingual translation.
       </p>
     </td>
   </tr>
-  <tr>
-    <td colspan="2">
-      <h3>Activity</h3>
-      <p>
-        I use GitHub's native contribution graph for activity rather than third-party streak images, which can be unreliable in profile READMEs.
-      </p>
-      <p>
-        <a href="https://github.com/keyanUB?tab=overview&from=2026-01-01&to=2026-12-31">View my GitHub contribution graph</a>
-      </p>
-    </td>
-  </tr>
-  <!-- <tr>
-    <td colspan="2">
-      <h3>Activity Graph</h3>
-      <p align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=keyanUB&theme=minimal&hide_border=true" alt="GitHub activity graph" />
-      </p>
-    </td>
-  </tr> -->
 </table>
 
