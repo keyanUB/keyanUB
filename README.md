@@ -36,11 +36,11 @@ A daily thought with its source and bilingual translation.
 <table align="center" width="100%">
   <tr>
     <td width="100%" align="center">
-      <sub><strong>Today's Thought · 2026-06-09</strong></sub><br><br>
-      <strong><em>Act as if what you do makes a difference. It does.</em></strong><br>
-      <div align="right"><sub>William James</sub></div>
+      <sub><strong>Today's Thought · 2026-06-10</strong></sub><br><br>
+      <strong><em>The journey of a thousand miles begins with one step.</em></strong><br>
+      <div align="right"><sub>Laozi, Tao Te Ching</sub></div>
       <br>
-      <code>像你的行动真的会带来改变那样去行动。它确实会。</code>
+      <code>千里之行，始于足下。</code>
     </td>
   </tr>
 </table>
