@@ -36,11 +36,11 @@ A daily thought with its source and bilingual translation.
 <table align="center" width="100%">
   <tr>
     <td width="100%" align="center">
-      <sub><strong>Today's Thought · 2026-06-19</strong></sub><br><br>
-      <strong><em>It always seems impossible until it&apos;s done.</em></strong><br>
-      <div align="right"><sub>Nelson Mandela</sub></div>
+      <sub><strong>Today's Thought · 2026-06-20</strong></sub><br><br>
+      <strong><em>What you do today can improve all your tomorrows.</em></strong><br>
+      <div align="right"><sub>Ralph Marston</sub></div>
       <br>
-      <code>在完成之前，一切看起来都像是不可能。</code>
+      <code>你今天做的事，可以改善所有的明天。</code>
     </td>
   </tr>
 </table>
