@@ -36,11 +36,11 @@ A daily thought with its source and bilingual translation.
 <table align="center" width="100%">
   <tr>
     <td width="100%" align="center">
-      <sub><strong>Today's Thought · 2026-06-30</strong></sub><br><br>
-      <strong><em>Act as if what you do makes a difference. It does.</em></strong><br>
-      <div align="right"><sub>William James</sub></div>
+      <sub><strong>Today's Thought · 2026-07-01</strong></sub><br><br>
+      <strong><em>It always seems impossible until it&apos;s done.</em></strong><br>
+      <div align="right"><sub>Nelson Mandela</sub></div>
       <br>
-      <code>像你的行动真的会带来改变那样去行动。它确实会。</code>
+      <code>在完成之前，一切看起来都像是不可能。</code>
     </td>
   </tr>
 </table>
