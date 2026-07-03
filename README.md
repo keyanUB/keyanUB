@@ -36,11 +36,11 @@ A daily thought with its source and bilingual translation.
 <table align="center" width="100%">
   <tr>
     <td width="100%" align="center">
-      <sub><strong>Today's Thought · 2026-07-02</strong></sub><br><br>
-      <strong><em>The future depends on what you do today.</em></strong><br>
-      <div align="right"><sub>Mahatma Gandhi</sub></div>
+      <sub><strong>Today's Thought · 2026-07-03</strong></sub><br><br>
+      <strong><em>Do not wait to strike till the iron is hot; make it hot by striking.</em></strong><br>
+      <div align="right"><sub>William Butler Yeats</sub></div>
       <br>
-      <code>未来取决于你今天做什么。</code>
+      <code>不要等铁热了才锤打；通过锤打让它变热。</code>
     </td>
   </tr>
 </table>
