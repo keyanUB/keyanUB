@@ -36,11 +36,11 @@ A daily thought with its source and bilingual translation.
 <table align="center" width="100%">
   <tr>
     <td width="100%" align="center">
-      <sub><strong>Today's Thought · 2026-07-04</strong></sub><br><br>
-      <strong><em>Without small steps, there is no way to reach a thousand miles.</em></strong><br>
-      <div align="right"><sub>荀子，《劝学》</sub></div>
+      <sub><strong>Today's Thought · 2026-07-05</strong></sub><br><br>
+      <strong><em>As heaven moves with strength, one should keep striving without rest.</em></strong><br>
+      <div align="right"><sub>《周易》</sub></div>
       <br>
-      <code>不积跬步，无以至千里。</code>
+      <code>天行健，君子以自强不息。</code>
     </td>
   </tr>
 </table>
