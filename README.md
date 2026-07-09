@@ -36,11 +36,11 @@ A daily thought with its source and bilingual translation.
 <table align="center" width="100%">
   <tr>
     <td width="100%" align="center">
-      <sub><strong>Today's Thought · 2026-07-08</strong></sub><br><br>
-      <strong><em>Act as if what you do makes a difference. It does.</em></strong><br>
-      <div align="right"><sub>William James</sub></div>
+      <sub><strong>Today's Thought · 2026-07-09</strong></sub><br><br>
+      <strong><em>What you do today can improve all your tomorrows.</em></strong><br>
+      <div align="right"><sub>Ralph Marston</sub></div>
       <br>
-      <code>像你的行动真的会带来改变那样去行动。它确实会。</code>
+      <code>你今天做的事，可以改善所有的明天。</code>
     </td>
   </tr>
 </table>
