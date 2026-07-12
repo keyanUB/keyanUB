@@ -36,11 +36,11 @@ A daily thought with its source and bilingual translation.
 <table align="center" width="100%">
   <tr>
     <td width="100%" align="center">
-      <sub><strong>Today's Thought · 2026-07-11</strong></sub><br><br>
-      <strong><em>Act as if what you do makes a difference. It does.</em></strong><br>
-      <div align="right"><sub>William James</sub></div>
+      <sub><strong>Today's Thought · 2026-07-12</strong></sub><br><br>
+      <strong><em>Knowing yourself is the beginning of all wisdom.</em></strong><br>
+      <div align="right"><sub>Aristotle</sub></div>
       <br>
-      <code>像你的行动真的会带来改变那样去行动。它确实会。</code>
+      <code>认识自己，是一切智慧的开始。</code>
     </td>
   </tr>
 </table>
