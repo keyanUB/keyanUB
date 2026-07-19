@@ -36,11 +36,11 @@ A daily thought with its source and bilingual translation.
 <table align="center" width="100%">
   <tr>
     <td width="100%" align="center">
-      <sub><strong>Today's Thought · 2026-07-18</strong></sub><br><br>
-      <strong><em>It always seems impossible until it&apos;s done.</em></strong><br>
-      <div align="right"><sub>Nelson Mandela</sub></div>
+      <sub><strong>Today's Thought · 2026-07-19</strong></sub><br><br>
+      <strong><em>The journey of a thousand miles begins with one step.</em></strong><br>
+      <div align="right"><sub>Laozi, Tao Te Ching</sub></div>
       <br>
-      <code>在完成之前，一切看起来都像是不可能。</code>
+      <code>千里之行，始于足下。</code>
     </td>
   </tr>
 </table>
