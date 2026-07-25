@@ -36,11 +36,11 @@ A daily thought with its source and bilingual translation.
 <table align="center" width="100%">
   <tr>
     <td width="100%" align="center">
-      <sub><strong>Today's Thought · 2026-07-24</strong></sub><br><br>
-      <strong><em>Without small steps, there is no way to reach a thousand miles.</em></strong><br>
-      <div align="right"><sub>荀子，《劝学》</sub></div>
+      <sub><strong>Today's Thought · 2026-07-25</strong></sub><br><br>
+      <strong><em>Do not wait to strike till the iron is hot; make it hot by striking.</em></strong><br>
+      <div align="right"><sub>William Butler Yeats</sub></div>
       <br>
-      <code>不积跬步，无以至千里。</code>
+      <code>不要等铁热了才锤打；通过锤打让它变热。</code>
     </td>
   </tr>
 </table>
