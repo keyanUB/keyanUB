@@ -36,11 +36,11 @@ A daily thought with its source and bilingual translation.
 <table align="center" width="100%">
   <tr>
     <td width="100%" align="center">
-      <sub><strong>Today's Thought · 2026-07-31</strong></sub><br><br>
-      <strong><em>After reading thousands of books, writing comes as if guided by spirit.</em></strong><br>
-      <div align="right"><sub>杜甫，《奉赠韦左丞丈二十二韵》</sub></div>
+      <sub><strong>Today's Thought · 2026-08-01</strong></sub><br><br>
+      <strong><em>The future depends on what you do today.</em></strong><br>
+      <div align="right"><sub>Mahatma Gandhi</sub></div>
       <br>
-      <code>读书破万卷，下笔如有神。</code>
+      <code>未来取决于你今天做什么。</code>
     </td>
   </tr>
 </table>
