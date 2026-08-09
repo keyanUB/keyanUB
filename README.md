@@ -36,11 +36,11 @@ A daily thought with its source and bilingual translation.
 <table align="center" width="100%">
   <tr>
     <td width="100%" align="center">
-      <sub><strong>Today's Thought · 2026-08-08</strong></sub><br><br>
-      <strong><em>What you do today can improve all your tomorrows.</em></strong><br>
-      <div align="right"><sub>Ralph Marston</sub></div>
+      <sub><strong>Today's Thought · 2026-08-09</strong></sub><br><br>
+      <strong><em>The journey of a thousand miles begins with one step.</em></strong><br>
+      <div align="right"><sub>Laozi, Tao Te Ching</sub></div>
       <br>
-      <code>你今天做的事，可以改善所有的明天。</code>
+      <code>千里之行，始于足下。</code>
     </td>
   </tr>
 </table>
