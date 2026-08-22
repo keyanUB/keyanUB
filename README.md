@@ -36,11 +36,11 @@ A daily thought with its source and bilingual translation.
 <table align="center" width="100%">
   <tr>
     <td width="100%" align="center">
-      <sub><strong>Today's Thought · 2026-08-21</strong></sub><br><br>
-      <strong><em>After reading thousands of books, writing comes as if guided by spirit.</em></strong><br>
-      <div align="right"><sub>杜甫，《奉赠韦左丞丈二十二韵》</sub></div>
+      <sub><strong>Today's Thought · 2026-08-22</strong></sub><br><br>
+      <strong><em>As heaven moves with strength, one should keep striving without rest.</em></strong><br>
+      <div align="right"><sub>《周易》</sub></div>
       <br>
-      <code>读书破万卷，下笔如有神。</code>
+      <code>天行健，君子以自强不息。</code>
     </td>
   </tr>
 </table>
