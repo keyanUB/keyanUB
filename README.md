@@ -36,11 +36,11 @@ A daily thought with its source and bilingual translation.
 <table align="center" width="100%">
   <tr>
     <td width="100%" align="center">
-      <sub><strong>Today's Thought · 2026-08-29</strong></sub><br><br>
-      <strong><em>Act as if what you do makes a difference. It does.</em></strong><br>
-      <div align="right"><sub>William James</sub></div>
+      <sub><strong>Today's Thought · 2026-08-30</strong></sub><br><br>
+      <strong><em>After reading thousands of books, writing comes as if guided by spirit.</em></strong><br>
+      <div align="right"><sub>杜甫，《奉赠韦左丞丈二十二韵》</sub></div>
       <br>
-      <code>像你的行动真的会带来改变那样去行动。它确实会。</code>
+      <code>读书破万卷，下笔如有神。</code>
     </td>
   </tr>
 </table>
