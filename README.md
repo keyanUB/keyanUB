@@ -36,11 +36,11 @@ A daily thought with its source and bilingual translation.
 <table align="center" width="100%">
   <tr>
     <td width="100%" align="center">
-      <sub><strong>Today's Thought · 2026-08-31</strong></sub><br><br>
-      <strong><em>As heaven moves with strength, one should keep striving without rest.</em></strong><br>
-      <div align="right"><sub>《周易》</sub></div>
+      <sub><strong>Today's Thought · 2026-09-01</strong></sub><br><br>
+      <strong><em>Do not wait to strike till the iron is hot; make it hot by striking.</em></strong><br>
+      <div align="right"><sub>William Butler Yeats</sub></div>
       <br>
-      <code>天行健，君子以自强不息。</code>
+      <code>不要等铁热了才锤打；通过锤打让它变热。</code>
     </td>
   </tr>
 </table>
