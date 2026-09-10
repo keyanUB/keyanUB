@@ -36,11 +36,11 @@ A daily thought with its source and bilingual translation.
 <table align="center" width="100%">
   <tr>
     <td width="100%" align="center">
-      <sub><strong>Today's Thought · 2026-09-09</strong></sub><br><br>
-      <strong><em>It always seems impossible until it&apos;s done.</em></strong><br>
-      <div align="right"><sub>Nelson Mandela</sub></div>
+      <sub><strong>Today's Thought · 2026-09-10</strong></sub><br><br>
+      <strong><em>Knowing yourself is the beginning of all wisdom.</em></strong><br>
+      <div align="right"><sub>Aristotle</sub></div>
       <br>
-      <code>在完成之前，一切看起来都像是不可能。</code>
+      <code>认识自己，是一切智慧的开始。</code>
     </td>
   </tr>
 </table>
