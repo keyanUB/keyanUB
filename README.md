@@ -36,7 +36,7 @@ A daily thought with its source and bilingual translation.
 <table align="center" width="100%">
   <tr>
     <td width="100%" align="center">
-      <sub><strong>Today's Thought · 2026-09-30</strong></sub><br><br>
+      <sub><strong>Today's Thought · 2026-10-01</strong></sub><br><br>
       <strong><em>As heaven moves with strength, one should keep striving without rest.</em></strong><br>
       <div align="right"><sub>《周易》</sub></div>
       <br>
