@@ -36,11 +36,11 @@ A daily thought with its source and bilingual translation.
 <table align="center" width="100%">
   <tr>
     <td width="100%" align="center">
-      <sub><strong>Today's Thought · 2026-10-19</strong></sub><br><br>
-      <strong><em>The future depends on what you do today.</em></strong><br>
-      <div align="right"><sub>Mahatma Gandhi</sub></div>
+      <sub><strong>Today's Thought · 2026-10-20</strong></sub><br><br>
+      <strong><em>The journey of a thousand miles begins with one step.</em></strong><br>
+      <div align="right"><sub>Laozi, Tao Te Ching</sub></div>
       <br>
-      <code>未来取决于你今天做什么。</code>
+      <code>千里之行，始于足下。</code>
     </td>
   </tr>
 </table>
