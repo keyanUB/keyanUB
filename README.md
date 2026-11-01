@@ -36,11 +36,11 @@ A daily thought with its source and bilingual translation.
 <table align="center" width="100%">
   <tr>
     <td width="100%" align="center">
-      <sub><strong>Today's Thought · 2026-10-31</strong></sub><br><br>
-      <strong><em>Act as if what you do makes a difference. It does.</em></strong><br>
-      <div align="right"><sub>William James</sub></div>
+      <sub><strong>Today's Thought · 2026-11-01</strong></sub><br><br>
+      <strong><em>Without small steps, there is no way to reach a thousand miles.</em></strong><br>
+      <div align="right"><sub>荀子，《劝学》</sub></div>
       <br>
-      <code>像你的行动真的会带来改变那样去行动。它确实会。</code>
+      <code>不积跬步，无以至千里。</code>
     </td>
   </tr>
 </table>
