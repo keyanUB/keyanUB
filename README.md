@@ -36,11 +36,11 @@ A daily thought with its source and bilingual translation.
 <table align="center" width="100%">
   <tr>
     <td width="100%" align="center">
-      <sub><strong>Today's Thought · 2026-11-05</strong></sub><br><br>
-      <strong><em>The journey of a thousand miles begins with one step.</em></strong><br>
-      <div align="right"><sub>Laozi, Tao Te Ching</sub></div>
+      <sub><strong>Today's Thought · 2026-11-16</strong></sub><br><br>
+      <strong><em>Without small steps, there is no way to reach a thousand miles.</em></strong><br>
+      <div align="right"><sub>荀子，《劝学》</sub></div>
       <br>
-      <code>千里之行，始于足下。</code>
+      <code>不积跬步，无以至千里。</code>
     </td>
   </tr>
 </table>
